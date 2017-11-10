@@ -3,7 +3,7 @@
 def countdown(n)
   curr_n=n
 
-  while n>0
+  while curr_n>0
     if curr_n==1
     puts "1 SECOND!"
     else
