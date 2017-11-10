@@ -9,7 +9,7 @@ def countdown(n)
     else
       puts "#{curr_n} SECONDS!"
     end
-    
+
     curr_n-=1
     
   end
